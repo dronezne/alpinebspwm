@@ -39,7 +39,7 @@ setup-disk                              → reboot
 ## overview
 
 ```
-↓ the screenshot  → https://github.com/dronezne/alpinebspwm/raw/branch/main/screen.png
+↓download the screenshot: https://github.com/dronezne/alpinebspwm/blob/main/screen.png
 workspace | battery | alsa ( klick → mute ) | time ( klick → date ) | connection # bar
 super + u → release → press 1 # poweroff ↓ | super + u → release → press 2 # reboot ↓↑
 ```
@@ -119,4 +119,4 @@ $ rm       # careful +verbose
 
 ## binding
 
-- `super + u` → release → [press](https://github.com/dronezne/alpinebspwm/src/branch/main/home/.config/sxhkd/sxhkdrc) `p`
+- `super + u` → release → [press](https://github.com/dronezne/alpinebspwm/blob/main/home/.config/sxhkd/sxhkdrc) `p`
