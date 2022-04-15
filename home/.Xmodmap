@@ -1,0 +1,10 @@
+clear mod5
+keysym 0xfe03 = KP_Space
+clear control
+keysym Control_R = ISO_Level3_Shift
+add mod5 = ISO_Level3_Shift
+add control = Control_L
+!
+!clear control
+!keysym Control_R = KP_Space
+!add control = Control_L

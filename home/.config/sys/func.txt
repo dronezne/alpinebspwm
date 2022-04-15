@@ -1,0 +1,42 @@
+*func.txt*
+
+
+    $ cbb       # <cmd> busybox ?
+    $ nnn       # tiny adjustment
+    $ dnv       # doasnvim ~/init
+    $ 2fa       # <foo>  oathtool
+    $ cpu       # (oo) → $ cpu -h
+    $ esa       # eval → ssh agent
+    $ img       # picture overview
+    $ chc       # chrony check ntp
+    $ iso       # wipe -a/-o write
+    $ cfn       # cleanup filename
+    $ mix       # jumbled overview
+    $ off       # net → go offline
+    $ trim      # fstrim / +output
+    $ logs      # (oo) → $ logs -h
+    $ mpvl      # mpv localprofile
+    $ pkgi      # info: $ pkgi -h
+    $ fhd       # <foo> dd fish ↓
+    $ rca       # status services
+    $ ffp       # ffplay detached
+    $ rad       # (oo) → $ rad -h
+    $ man       # more less 4 man
+    $ ipt       # (oo) → $ ipt -h
+    $ mpc       # kernel ↓modules
+    $ sh2       # sync /home/ to:
+    $ rcl       # rclog: $ rcl -h
+    $ ff        # ? → $ ff --help
+    $ pw        # pass: → $ pw -h
+    $ cd        # cd + list files
+    $ nt        # note: → $ nt -h
+    $ on        # net → go online
+    $ se        # hwmon  coretemp
+    $ qv        # <kuh> ? var set
+    $ yt        # ⏎ <url> ↓stream
+    $ rs        # reset  terminal
+    $ fp        # fish record off
+    $ vi        # stands 4 neovim
+    $ gd        # git diff less+c
+
+
