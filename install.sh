@@ -107,7 +107,7 @@
     apk add polybar
     apk add ncurses
     apk add nethogs
-    apk add flatpak
+    apk add firefox
     apk add man-db
     apk add neovim
     apk add ffmpeg
@@ -150,14 +150,6 @@
         ::1       localhost.localdomain localhost $hna.localdomain $hna
 EOF
     fi
-
-    # fluc
-    adduser "$usn" flatpak; flatpak remote-add --user --if-not-exists \
-    flathub https://flathub.org/repo/flathub.flatpakrepo
-
-    rc-update -q add dbus default; rc-service -q dbus start
-
-    flatpak install -y com.github.Eloston.UngoogledChromium
 
     # ftzv
     TZ="$(find /etc/zoneinfo/ | tail -n1 | cut -d '/' -f4-)"
