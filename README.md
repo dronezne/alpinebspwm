@@ -1,39 +1,12 @@
 ```
-       ______
-      (  mu  )
-       ------
+       ____________________________________________________
+      (  archived. reason: X seems to be archived as well  )
+       ----------------------------------------------------
           \   ^__^
            \  (oo)\_______                  a l p i n e b s p w m
               (__)\       )\/\
                   ||----w |
                   ||     ||
-```
-
-<br/>
-
-## 1: howtostart
-
-[alpine](https://alpinelinux.org/downloads/) standard | extended | virtual image & [installation](https://docs.alpinelinux.org/user-handbook/0.1a/Installing/manual.html)
-
-```bash
-# example
-setup-keymap → setup-hostname → setup-interfaces  ↓
-  rc-service networking start → setup-timezone    ↓
-setup-apkrepos → passwd → setup-sshd → setup-ntp  ↓
-setup-disk                              → reboot
-```
-
-## 2: git, clone
-
-```
-# apk add git
-# git clone --depth 1 https://github.com/dronezne/alpinebspwm.git
-```
-
-## 3: run script
-
-```
-# sh alpinebspwm/install.sh
 ```
 
 ## overview
